@@ -40,7 +40,7 @@ public class StoryTeller
         {
             while (loc < historyReading.getColumn("day").size() && historyReading.getColumn("day").get(loc).equals(Integer.toString(i + 1)))
             {
-                storyline += "\n" + historyReading.getColumn("v-name").get(loc) + " " + historyReading.getColumn("v-surname").get(loc) + " has been killed by " + historyReading.getColumn("k-name").get(loc) + " " + historyReading.getColumn("k-surname").get(loc) + ". With that " + historyReading.getColumn("k-name").get(loc) + " " + historyReading.getColumn("k-surname").get(loc) + " has been reached to " + historyReading.getColumn("k-kills").get(loc) + " as amount of kills.";
+                storyline += "\n" + historyReading.getColumn("v-name").get(loc) + " " + historyReading.getColumn("v-surname").get(loc) + " has been killed by " + historyReading.getColumn("k-name").get(loc) + " " + historyReading.getColumn("k-surname").get(loc) + ". With that " + historyReading.getColumn("k-name").get(loc) + " " + historyReading.getColumn("k-surname").get(loc) + " has " + historyReading.getColumn("k-kills").get(loc) + " kill(s).";
                 loc++;
             }
 
