@@ -1,0 +1,154 @@
+Welcome to the first Hunger Games! My name is Lucky Flickerman, I will narrate the story of this extremely amazing action!
+
+Here are the all tributes from each district:
+
+the male tribute of district 1 kai dickson (17 years old)
+the female tribute of district 1 jesica rubio (16 years old)
+
+the male tribute of district 2 mamie garza (16 years old)
+the female tribute of district 2 afton best (14 years old)
+
+the male tribute of district 3 seward bridges (16 years old)
+the female tribute of district 3 lisha cline (17 years old)
+
+the male tribute of district 4 gibson brooks (14 years old)
+the female tribute of district 4 hildur fry (17 years old)
+
+the male tribute of district 5 kelley merritt (17 years old)
+the female tribute of district 5 jordin singleton (15 years old)
+
+the male tribute of district 6 brain spears (13 years old)
+the female tribute of district 6 marget gutierrez (16 years old)
+
+the male tribute of district 7 maynard buck (15 years old)
+the female tribute of district 7 shante watson (16 years old)
+
+the male tribute of district 8 jalen coffey (14 years old)
+the female tribute of district 8 madisen yang (16 years old)
+
+the male tribute of district 9 donovan benitez (13 years old)
+the female tribute of district 9 tasha shepherd (13 years old)
+
+the male tribute of district 10 ora leonard (14 years old)
+the female tribute of district 10 florine webster (17 years old)
+
+the male tribute of district 11 cleveland mckee (16 years old)
+the female tribute of district 11 peggy herring (15 years old)
+
+the male tribute of district 12 denzel hamilton (13 years old)
+the female tribute of district 12 zita buchanan (14 years old)
+
+
+jordin singleton has been killed by florine webster. With that florine webster has been reached to 1 as amount of kills.
+ora leonard has been killed by peggy herring. With that peggy herring has been reached to 1 as amount of kills.
+shante watson has been killed by peggy herring. With that peggy herring has been reached to 2 as amount of kills.
+donovan benitez has been killed by kai dickson. With that kai dickson has been reached to 1 as amount of kills.
+zita buchanan has been killed by kelley merritt. With that kelley merritt has been reached to 1 as amount of kills.
+tasha shepherd has been killed by peggy herring. With that peggy herring has been reached to 3 as amount of kills.
+afton best has been killed by lisha cline. With that lisha cline has been reached to 1 as amount of kills.
+
+The day - 1 has been finished. Here are the survivors:
+
+the male tribute of district 1 kai dickson (17 years old, has 1 kill(s).)
+the female tribute of district 1 jesica rubio (16 years old, has 0 kill(s).)
+the male tribute of district 2 mamie garza (16 years old, has 0 kill(s).)
+the male tribute of district 3 seward bridges (16 years old, has 0 kill(s).)
+the female tribute of district 3 lisha cline (17 years old, has 1 kill(s).)
+the male tribute of district 4 gibson brooks (14 years old, has 0 kill(s).)
+the female tribute of district 4 hildur fry (17 years old, has 0 kill(s).)
+the male tribute of district 5 kelley merritt (17 years old, has 1 kill(s).)
+the male tribute of district 6 brain spears (13 years old, has 0 kill(s).)
+the female tribute of district 6 marget gutierrez (16 years old, has 0 kill(s).)
+the male tribute of district 7 maynard buck (15 years old, has 0 kill(s).)
+the male tribute of district 8 jalen coffey (14 years old, has 0 kill(s).)
+the female tribute of district 8 madisen yang (16 years old, has 0 kill(s).)
+the female tribute of district 10 florine webster (17 years old, has 1 kill(s).)
+the male tribute of district 11 cleveland mckee (16 years old, has 0 kill(s).)
+the female tribute of district 11 peggy herring (15 years old, has 3 kill(s).)
+the male tribute of district 12 denzel hamilton (13 years old, has 0 kill(s).)
+
+cleveland mckee has been killed by mamie garza. With that mamie garza has been reached to 1 as amount of kills.
+peggy herring has been killed by mamie garza. With that mamie garza has been reached to 2 as amount of kills.
+marget gutierrez has been killed by mamie garza. With that mamie garza has been reached to 3 as amount of kills.
+kelley merritt has been killed by mamie garza. With that mamie garza has been reached to 4 as amount of kills.
+
+The day - 2 has been finished. Here are the survivors:
+
+the male tribute of district 1 kai dickson (17 years old, has 1 kill(s).)
+the female tribute of district 1 jesica rubio (16 years old, has 0 kill(s).)
+the male tribute of district 2 mamie garza (16 years old, has 4 kill(s).)
+the male tribute of district 3 seward bridges (16 years old, has 0 kill(s).)
+the female tribute of district 3 lisha cline (17 years old, has 1 kill(s).)
+the male tribute of district 4 gibson brooks (14 years old, has 0 kill(s).)
+the female tribute of district 4 hildur fry (17 years old, has 0 kill(s).)
+the male tribute of district 6 brain spears (13 years old, has 0 kill(s).)
+the male tribute of district 7 maynard buck (15 years old, has 0 kill(s).)
+the male tribute of district 8 jalen coffey (14 years old, has 0 kill(s).)
+the female tribute of district 8 madisen yang (16 years old, has 0 kill(s).)
+the female tribute of district 10 florine webster (17 years old, has 1 kill(s).)
+the male tribute of district 12 denzel hamilton (13 years old, has 0 kill(s).)
+
+jalen coffey has been killed by kai dickson. With that kai dickson has been reached to 2 as amount of kills.
+madisen yang has been killed by jesica rubio. With that jesica rubio has been reached to 1 as amount of kills.
+seward bridges has been killed by jesica rubio. With that jesica rubio has been reached to 2 as amount of kills.
+maynard buck has been killed by jesica rubio. With that jesica rubio has been reached to 3 as amount of kills.
+
+The day - 3 has been finished. Here are the survivors:
+
+the male tribute of district 1 kai dickson (17 years old, has 2 kill(s).)
+the female tribute of district 1 jesica rubio (16 years old, has 3 kill(s).)
+the male tribute of district 2 mamie garza (16 years old, has 4 kill(s).)
+the female tribute of district 3 lisha cline (17 years old, has 1 kill(s).)
+the male tribute of district 4 gibson brooks (14 years old, has 0 kill(s).)
+the female tribute of district 4 hildur fry (17 years old, has 0 kill(s).)
+the male tribute of district 6 brain spears (13 years old, has 0 kill(s).)
+the female tribute of district 10 florine webster (17 years old, has 1 kill(s).)
+the male tribute of district 12 denzel hamilton (13 years old, has 0 kill(s).)
+
+denzel hamilton has been killed by jesica rubio. With that jesica rubio has been reached to 4 as amount of kills.
+brain spears has been killed by kai dickson. With that kai dickson has been reached to 3 as amount of kills.
+
+The day - 4 has been finished. Here are the survivors:
+
+the male tribute of district 1 kai dickson (17 years old, has 3 kill(s).)
+the female tribute of district 1 jesica rubio (16 years old, has 4 kill(s).)
+the male tribute of district 2 mamie garza (16 years old, has 4 kill(s).)
+the female tribute of district 3 lisha cline (17 years old, has 1 kill(s).)
+the male tribute of district 4 gibson brooks (14 years old, has 0 kill(s).)
+the female tribute of district 4 hildur fry (17 years old, has 0 kill(s).)
+the female tribute of district 10 florine webster (17 years old, has 1 kill(s).)
+
+gibson brooks has been killed by jesica rubio. With that jesica rubio has been reached to 5 as amount of kills.
+
+The day - 5 has been finished. Here are the survivors:
+
+the male tribute of district 1 kai dickson (17 years old, has 3 kill(s).)
+the female tribute of district 1 jesica rubio (16 years old, has 5 kill(s).)
+the male tribute of district 2 mamie garza (16 years old, has 4 kill(s).)
+the female tribute of district 3 lisha cline (17 years old, has 1 kill(s).)
+the female tribute of district 4 hildur fry (17 years old, has 0 kill(s).)
+the female tribute of district 10 florine webster (17 years old, has 1 kill(s).)
+
+florine webster has been killed by jesica rubio. With that jesica rubio has been reached to 6 as amount of kills.
+mamie garza has been killed by kai dickson. With that kai dickson has been reached to 4 as amount of kills.
+
+The day - 6 has been finished. Here are the survivors:
+
+the male tribute of district 1 kai dickson (17 years old, has 4 kill(s).)
+the female tribute of district 1 jesica rubio (16 years old, has 6 kill(s).)
+the female tribute of district 3 lisha cline (17 years old, has 1 kill(s).)
+the female tribute of district 4 hildur fry (17 years old, has 0 kill(s).)
+
+lisha cline has been killed by jesica rubio. With that jesica rubio has been reached to 7 as amount of kills.
+hildur fry has been killed by kai dickson. With that kai dickson has been reached to 5 as amount of kills.
+
+The day - 7 has been finished. Here are the survivors:
+
+the male tribute of district 1 kai dickson (17 years old, has 5 kill(s).)
+the female tribute of district 1 jesica rubio (16 years old, has 7 kill(s).)
+
+kai dickson has been killed by jesica rubio. With that jesica rubio has been reached to 8 as amount of kills.
+
+The day - 8 has been finished and we have a champion! Here is the winner:
+
+the female tribute of district 1 jesica rubio (16 years old, has 8 kill(s).)
