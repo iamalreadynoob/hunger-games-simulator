@@ -88,8 +88,6 @@ public class Playground
             }
             day++;
         }
-
-        System.out.println(deathsPerDay);
     }
 
     private void cases()
@@ -133,12 +131,11 @@ public class Playground
 
                 lines.add(day + "," + killerName + "," + killerSurname + "," + killerDistrict + "," + killerKills + "," + killerAge + "," + killerGender + "," + victimName + "," + victimSurname + "," + victimDistrict + "," + victimKills + "," + victimAge + "," + victimGender);
             }
-            System.out.println(name.size());
-            String dayEnd = null;
+
+            String dayEnd = "";
             for (int j = 0; j < name.size(); j++)
             {
-                if (dayEnd == null) dayEnd = "Survivors\n";
-                else dayEnd += "\nthe " + gender.get(j) + " tribute of district " + district.get(j) + " " + name.get(j) + " " + surname.get(j) + " (" + age.get(j) + " years old, has " + kills.get(j) + " kill(s).)";
+                dayEnd += "\nthe " + gender.get(j) + " tribute of district " + district.get(j) + " " + name.get(j) + " " + surname.get(j) + " (" + age.get(j) + " years old, has " + kills.get(j) + " kill(s).)";
             }
             survivors.add(dayEnd);
 
